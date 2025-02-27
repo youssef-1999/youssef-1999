@@ -14,12 +14,13 @@
 
 ## Languages and Tools:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" alt="jQuery" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="ReactJS" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="40" height="40" style="filter: invert(27%) sepia(76%) saturate(614%) hue-rotate(359deg) brightness(98%) contrast(89%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40" style="filter: invert(30%) sepia(98%) saturate(725%) hue-rotate(185deg) brightness(92%) contrast(97%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="filter: invert(88%) sepia(44%) saturate(741%) hue-rotate(1deg) brightness(102%) contrast(102%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" style="filter: invert(23%) sepia(69%) saturate(1478%) hue-rotate(254deg) brightness(93%) contrast(91%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" style="filter: invert(57%) sepia(72%) saturate(412%) hue-rotate(165deg) brightness(102%) contrast(101%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" alt="jQuery" width="40" height="40" style="filter: invert(40%) sepia(79%) saturate(734%) hue-rotate(184deg) brightness(95%) contrast(93%);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="ReactJS" width="40" height="40" style="filter: invert(55%) sepia(33%) saturate(506%) hue-rotate(184deg) brightness(93%) contrast(96%);" />
 </p>
+
 
