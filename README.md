@@ -7,14 +7,11 @@ Frontend Developer passionate about crafting responsive, user-centric web applic
 ![Profile Views](https://komarev.com/ghpvc/?username=youssefabdelbaky&label=Profile%20views&color=0e75b6&style=flat)
 
 [![My CV](https://img.shields.io/badge/My%20CV-28a745?style=for-the-badge&logo=readme&logoColor=white)](https://youssefabdelbaky.netlify.app)  
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefabdelbaky.netlify.app)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)]((https://drive.google.com/file/d/1Evnh5dZQ5UAuyOqHknJH5x0V8AM5BYMN/view?usp=sharing))
 
 ---
 
-### 🤝 Connect & Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)  
+ 
 
 ---
 
@@ -27,6 +24,8 @@ Frontend Developer passionate about crafting responsive, user-centric web applic
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ---
 
@@ -59,7 +58,11 @@ Frontend Developer passionate about crafting responsive, user-centric web applic
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefabdelbaky4@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefabdelbaky)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/youssefdeveloper)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefabdelbaky.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefabdelbaky.netlify.app)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201123683549)  
+
+🎥 I post short reels about Web Dev Interview Questions on TikTok — follow me here! [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@youssefabdelbaky0?_t=ZS-90LvkPMy1JA&_r=1)  
+
 
 ---
 
