@@ -1,15 +1,10 @@
-Here is a **cleaned, rewritten, senior-level, highly professional** version of your GitHub README intro section.
-I fixed grammar, structure, tone, and made it sound like a **Senior Frontend Engineer** while keeping all your content.
 
----
-
-# ✅ **Senior-Level Version (Copy & Paste)**
 
 ### Hi, I'm **Youssef Abd El Baky** 👋
 
-**Senior Frontend Engineer | Computer Engineering Graduate**
+**Senior Frontend Engineer | Computer Engineering **
 
-I’m a Senior Frontend Engineer specializing in building high-performance, scalable, and user-centric web applications. I work with modern frontend technologies including **HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS**, and more—focusing on clean architecture, reusable component systems, and optimized user experiences.
+I’m a Senior Frontend Engineer specializing in building high-performance, scalable, and user-centric web applications. I work with modern frontend technologies including **HTML, CSS, JavaScript, React.js,Next.js, Bootstrap, Tailwind CSS**, and more—focusing on clean architecture, reusable component systems, and optimized user experiences.
 I combine strong engineering foundations with practical product thinking to deliver reliable, maintainable, and visually refined digital solutions.
 
 ---
