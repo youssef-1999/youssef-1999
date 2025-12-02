@@ -47,26 +47,12 @@ I combine strong engineering foundations with practical product thinking to deli
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
----
-
-### 📈 GitHub Analytics
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-1999&show_icons=true&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-1999&show_icons=true" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-1999" /></p>
-
----
-
-### 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=youssefabdelbaky\&theme=onedark\&margin-w=15\&margin-h=15)
 
 ---
 
 ### 🚀 Featured Projects
 
+* [Coach Gym](https://coachamr.netlify.app/)
 * [Baking App](https://bakery-wesbite.vercel.app/)
 * [Mealify App](https://mealify-raab.vercel.app/)
 * [Portfolio App](https://osaka-assigment.vercel.app/)
