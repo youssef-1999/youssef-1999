@@ -80,8 +80,3 @@ I combine strong engineering foundations with practical product thinking to deli
 📍 Based in **Miami, Alexandria, Egypt**
 💡 Open to senior-level collaborations and new opportunities.
 
----
-
-### Want me to **reformat the whole README from top to bottom** into a clean, modern layout?
-
-Just say **“yes, build the full README”** and I’ll generate a perfect GitHub-ready version.
