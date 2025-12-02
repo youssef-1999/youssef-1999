@@ -2,7 +2,7 @@
 
 ### Hi, I'm **Youssef Abd El Baky** 👋
 
-**Senior Frontend Engineer | Computer Engineering **
+Senior Frontend Engineer | Computer Engineering 
 
 I’m a Senior Frontend Engineer specializing in building high-performance, scalable, and user-centric web applications. I work with modern frontend technologies including **HTML, CSS, JavaScript, React.js,Next.js, Bootstrap, Tailwind CSS**, and more—focusing on clean architecture, reusable component systems, and optimized user experiences.
 I combine strong engineering foundations with practical product thinking to deliver reliable, maintainable, and visually refined digital solutions.
