@@ -2,10 +2,15 @@
 
 ### Hi, I'm **Youssef Abd El Baky** 👋
 
-Senior Frontend Engineer | Computer Engineering 
+Full Stack Developer | React • Angular • Laravel • PHP
 
-I’m a Senior Frontend Engineer specializing in building high-performance, scalable, and user-centric web applications. I work with modern frontend technologies including **HTML, CSS, JavaScript, React.js,Next.js, Bootstrap, Tailwind CSS**, and more—focusing on clean architecture, reusable component systems, and optimized user experiences.
-I combine strong engineering foundations with practical product thinking to deliver reliable, maintainable, and visually refined digital solutions.
+I’m a Full Stack Developer specializing in building high-performance, scalable, and user-centric web applications. I work across both frontend and backend technologies, combining modern UI frameworks with powerful backend architectures.
+
+On the frontend, I develop dynamic interfaces using HTML, CSS, JavaScript, React.js, Angular, Next.js, Bootstrap, and Tailwind CSS, focusing on clean architecture, reusable component systems, and optimized user experiences.
+
+On the backend, I build robust APIs and secure systems using Laravel and PHP, implementing authentication, database management, and scalable application logic.
+
+I combine strong engineering foundations with practical product thinking to deliver reliable, maintainable, and visually refined full-stack solutions.
 
 ---
 
